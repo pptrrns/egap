@@ -1,0 +1,30 @@
+id,resident,country,gender,diet,treatment,treatment_received,state_of_world
+1,Mexico City,Mexico City,Male,None,0,control,3
+2,Colombia,Colombia,Male,None,1,NA,NA
+3,Argentina,Argentina,Female,None,0,NA,NA
+4,Colombia,Colombia,Male,None,0,control,9
+5,Chile,Chile,Female,Vegetarian,1,treatment,1
+6,Paraguay,Paraguay,Female,None,0,control,3
+7,Brazil,Brazil,Male,No lácteos,0,control,8
+8,Perú,Perú,Female,None,1,treatment,2
+9,Colombia,Colombia,Male,None,1,treatment,6
+10,Argentina,Argentina,Male,None,1,NA,NA
+11,Mexico City,Mexico City,Male,None,0,control,6
+12,Mexico City,Mexico City,Male,None,0,control,9
+13,USA,USA,Male,None,1,NA,NA
+14,Uruguay,Uruguay,Female,None,0,control,3
+15,Colombia,Colombia,Male,None,0,control,9
+16,Mexico City,Mexico City,Male,None,0,control,4
+17,Brazil,Brazil,Female,Pescatarian,1,treatment,2
+18,Chile,Chile,Male,None,1,treatment,6
+19,NL,NL,Male,None,1,treatment,5
+20,Colombia,Colombia,Female,None,0,control,4
+21,Mexico City,Argentina,Male,None,1,treatment,4
+22,Mexico City,Colombia,Male,None,1,NA,NA
+23,Colombia,Colombia,Female,None,0,control,5
+24,Perú,Perú,Female,None,1,treatment,6
+25,Ecuador,Ecuador,Male,None,0,control,8
+26,Mexico City,Mexico City,Female,None,0,control,10
+27,Mexico City,Mexico City,Female,None,1,treatment,3
+28,"La Paz, Bolivia","La Paz, Bolivia",Male,None,0,control,4
+29,Mexico City,Mexico City,Female,Vegetarian,1,treatment,4
